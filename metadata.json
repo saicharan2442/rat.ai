@@ -1,0 +1,6 @@
+{
+  "name": "Rat.ai - 3D Voice Avatar & AI Assistant",
+  "description": "Real-time AI voice assistant powered by a 3D physics-animated rat avatar with speech-driven lip-sync and live chat display.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
